@@ -1,5 +1,4 @@
 Writing Documentation using AsciiDoc
-
 ====================================
 
 Joe Bloggs <jbloggs@mymail.com>
