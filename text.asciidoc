@@ -10,6 +10,9 @@ Rewritten for version 2 release.
 
 [[ what is it ? ]]
 
+[[chapter-titles]]
+Chapter titles can be ...
+
 [float]
 The second day
 ~~~~~~~~~~~~~~
