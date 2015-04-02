@@ -4,6 +4,11 @@ Joe Bloggs <jbloggs@mymail.com>
 v2.0, February 2003:
 Rewritten for version 2 release.
 
+[float]
+The second day
+~~~~~~~~~~~~~~
+
+
 = Document Title (level 0) =
 == Section title (level 1) ==
 === Section title (level 2) ===
