@@ -12,7 +12,7 @@ TIP: Wolpertingers are known to nest in server racks.
 Enter at your own risk.
 
 :hardbreaks:
-.Title
+Title
 * I can't believe it, we *won*!
 * I can't believe it, we **won**!
 * _I can't believe it, we *won*!_
