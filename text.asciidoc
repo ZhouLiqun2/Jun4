@@ -2,6 +2,6 @@
 * aaa
 * bbb
 
-.Hello2
+Hello2
 - aaa
 - bbb
