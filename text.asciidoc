@@ -17,3 +17,6 @@ I can't believe it, we **won**!
 _I can't believe it, we *won*!_
 'I can't believe it, we *won*!'
 `I can't believe it, we *won*!`
+
+\*Stars* will appear as *Stars*, not as bold text.
+\\*Stars* will appear as *Stars*, not as bold text.
