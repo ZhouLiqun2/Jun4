@@ -10,5 +10,9 @@
 ** b2
 *** b2-1
 
+.Ordered Hello
+. aaa
+. bbb
+. ccc
 
 
