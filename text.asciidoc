@@ -1,6 +1,8 @@
 :linkattrs:
 this document reffers to link:http://www.tianji.com/index.html[tianji, window="_blank"].
 
+image::sunset.jpg[Sunset, 300, 200, link="http://www.flickr.com/photos/javh/5448336655"]
+
 .Hello
 * aaa
 ** a1
