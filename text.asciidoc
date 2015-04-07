@@ -1,4 +1,4 @@
-this document reffers to link:www.tianji.com/index.html[tianji].
+this document reffers to link:http://www.tianji.com/index.html[tianji].
 
 .Hello
 * aaa
